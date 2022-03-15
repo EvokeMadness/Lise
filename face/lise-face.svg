@@ -32,15 +32,15 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.0874446"
-     inkscape:cx="273.57717"
-     inkscape:cy="241.39162"
+     inkscape:zoom="2.1748892"
+     inkscape:cx="275.64623"
+     inkscape:cy="130.35147"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:object-paths="false"
      inkscape:snap-center="true"
      inkscape:snap-bbox-midpoints="true">
@@ -119,18 +119,10 @@
      id="layer1"
      inkscape:label="alert"
      style="display:inline">
-    <g
-       id="g2146"
-       style="display:inline">
-      <path
-         style="fill:none;stroke:#ff4a4a;stroke-width:18.8976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 218.02228,39.282049 80.1759,80.175901"
-         id="path16526" />
-      <path
-         style="fill:none;stroke:#ff4a4a;stroke-width:18.8976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 298.19818,39.282049 -80.1759,80.175901"
-         id="path36058" />
-    </g>
+    <path
+       id="path16526"
+       style="color:#000000;fill:#ff4a4a;-inkscape-stroke:none"
+       d="M 224.70312 32.601562 L 211.3418 45.962891 L 244.75 79.371094 L 211.3418 112.77734 L 224.70312 126.13867 L 258.10938 92.730469 L 291.51758 126.13867 L 304.87891 112.77734 L 271.47266 79.371094 L 304.87891 45.962891 L 291.51758 32.601562 L 258.10938 66.007812 L 224.70312 32.601562 z " />
     <path
        id="path1417"
        style="color:#000000;display:inline;fill:#ff4a4a;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
