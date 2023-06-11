@@ -4,31 +4,44 @@
 
 LISE from [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)! This figure is [FFF](https://en.wikipedia.org/wiki/Fused_filament_fabrication)/FDM printable and Funko POP! size. This model also features interchangeable faces!
 
+NEW: Mini Lise figure! Perfect size for a key chain!
+
+## Print Settings
+
+- Print with supports. (Compatible with organic style supports.)
+- Print body with 15% - 30% infill
+- Print head with 10% - 15% infill
+
+### Mini Lise Print Settings
+
+- Print with supports. (Prints best with organic style supports.)
+- Print with 10% infill and 15% - 20% infill using a Height range Modifier from 0mm to 14.9mm.
+
 ## Attaching the head to the body
 
 ### Required materials
 
 - One wooden grill skewer > 2 inches
-- Permanent adhesive or glue
+- Permanent adhesive or model glue
 
 ### Notes & Instruction:
 
 - Measure and cut the grill skewer at 2 inches.
-- First, apply glue to the 3mm hole located on the bottom of the head and insert the 2-inch skewer into the hole until it stops.
+- Apply glue to the 3mm hole located on the bottom of the head and insert the 2-inch skewer into the hole until it stops.
 - Apply glue to the 3mm hole and rib located on top of the body.
-- Insert the head assembly into the hole on the body.
+- Insert the head assembly into the hole on top of the body until the rib meets the bottom side of the head assembly.
+- Leave head in desired position until glue dries.
 
 ## Assembling the face
 
-Four faces are located in the TAR file and are in the SVG format. Each SVG is a layer with a facial feature of a single color. This can be cut by hand or more accurately on a machine like the [Cricut](https://cricut.com/en_us).
+Nine faces are included with the model and are in the SVG format. Each layer is a facial feature of a single color. This can be cut by hand or more accurately on a machine like the [Cricut](https://cricut.com/en_us).
 
 ### Notes & Instruction:
 
-- Screen decal cut on Cricut Explore Air 1.
-	+ Material: matte black vinyl.
-	+ Line details on the screen are applied with a No. 2 pencil.
-	+ The screen is applied to [cardstock](https://en.wikipedia.org/wiki/Card_stock) paper for added rigidity.
-	+ Adhesive-backed foam square or Velcro/Hook And Loop Fastener (softer side) are applied to the cardstock side of the screen assembly.
-	+ Facial features are cut on vinyl material according to their color and applied to the vinyl side of the screen assembly.
-	+ The screen can be attached to the head by snapping it behind the two tabs on the right and left of the face.
-	+ Screen with different facial features can be replaced by inserting a 3mm rod through the channel on the back side of the head.
+- Screen background and decals cut on a Cricut Explore Air 1.
+	+ Material for background used: Vinyl
+		+ Color: Matte black
+	+ The background decal is applied to [cardstock](https://en.wikipedia.org/wiki/Card_stock) for added rigidity.
+	+ Facial features are cut on vinyl material according to their color and applied on top of the black vinyl.
+	+ The screen can be attached to the head by snapping it behind the two tabs on the left and right side of the face.
+	+ The screen can be removed and replaced with different facial features by inserting a 3mm rod through the channel on the back side of the head.
