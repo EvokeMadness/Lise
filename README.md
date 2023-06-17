@@ -4,7 +4,7 @@
 
 LISE from [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)! This figure is [FFF](https://en.wikipedia.org/wiki/Fused_filament_fabrication)/FDM printable and Funko POP! size. This model also features interchangeable faces!
 
-NEW: Mini Lise figure! Perfect size for a key chain!
+NEW: Mini Lise figure! Perfect size for a keychain!
 
 ## Print Settings
 
@@ -15,7 +15,7 @@ NEW: Mini Lise figure! Perfect size for a key chain!
 ### Mini Lise Print Settings
 
 - Print with supports. (Prints best with organic style supports.)
-- Print with 10% infill and 15% - 20% infill using a Height range Modifier from 0mm to 14.9mm.
+- Print with 10% infill and 15% - 20% infill using a Height range Modifier from 0 mm to 14.9 mm.
 
 ## Attaching the head to the body
 
@@ -27,10 +27,11 @@ NEW: Mini Lise figure! Perfect size for a key chain!
 ### Notes & Instruction:
 
 - Measure and cut the grill skewer at 2 inches.
-- Apply glue to the 3mm hole located on the bottom of the head and insert the 2-inch skewer into the hole until it stops.
-- Apply glue to the 3mm hole and rib located on top of the body.
+- Apply glue to the 3 mm hole located on the bottom of the head and insert the 2-inch skewer into the hole until it stops.
+- Apply glue to the 3 mm hole and rib located on top of the body.
 - Insert the head assembly into the hole on top of the body until the rib meets the bottom side of the head assembly.
 - Leave head in desired position until glue dries.
+- Refer to 'assembly.pdf' for a detailed exploded view.
 
 ## Assembling the face
 
@@ -43,5 +44,6 @@ Nine faces are included with the model and are in the SVG format. Each layer is 
 		+ Color: Matte black
 	+ The background decal is applied to [cardstock](https://en.wikipedia.org/wiki/Card_stock) for added rigidity.
 	+ Facial features are cut on vinyl material according to their color and applied on top of the black vinyl.
-	+ The screen can be attached to the head by snapping it behind the two tabs on the left and right side of the face.
-	+ The screen can be removed and replaced with different facial features by inserting a 3mm rod through the channel on the back side of the head.
+	+ The screen can be attached to the head by snapping it behind the two tabs on the left and right sides of the face.
+	+ The screen can be removed and replaced with different facial features by inserting a 3 mm rod through the channel on the back side of the head.
+- Refer to 'assembly.pdf' for a detailed exploded view.
