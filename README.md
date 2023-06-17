@@ -6,7 +6,7 @@ LISE from [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)! T
 
 NEW: Mini Lise figure! Perfect size for a keychain!
 
-## Print Settings
+## Print settings
 
 - Print with supports. (Compatible with organic style supports.)
 - Print body with 15% - 30% infill
@@ -47,3 +47,9 @@ Nine faces are included with the model and are in the SVG format. Each layer is 
 	+ The screen can be attached to the head by snapping it behind the two tabs on the left and right sides of the face.
 	+ The screen can be removed and replaced with different facial features by inserting a 3 mm rod through the channel on the back side of the head.
 - Refer to 'assembly.pdf' for a detailed exploded view.
+
+## A note from the designer
+
+Hey! Thanks for checking out my design and I hope you have a good time with it. If you've printed and assembled this design I'd love to see it. Post a make of this model to the Printables page assembled. If you have any issues with the model please let me know and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/Lise-fff) page. If you have any suggestions for this model please leave a comment. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/Lise-fff) page.
+
+Happy printing!
