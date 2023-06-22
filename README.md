@@ -1,6 +1,6 @@
 # Spelunky 2 Lise 3D printable toy
 
-## Summary
+### Summary
 
 LISE from [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)! This figure is [FFF](https://en.wikipedia.org/wiki/Fused_filament_fabrication)/FDM printable and Funko POP! size. This model also features interchangeable faces!
 
