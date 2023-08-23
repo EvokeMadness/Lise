@@ -2,7 +2,7 @@
 
 ### Summary
 
-LISE from [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)! This figure is [FFF](https://en.wikipedia.org/wiki/Fused_filament_fabrication)/FDM printable and Funko POP! size. This model also features interchangeable faces!
+LISE from [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)! This figure is 3D printable and Funko POP! size. This model also features interchangeable faces!
 
 NEW: Mini Lise figure! Perfect size for a keychain!
 
@@ -17,35 +17,35 @@ NEW: Mini Lise figure! Perfect size for a keychain!
 - Print with supports. (Prints best with organic style supports.)
 - Print with 10% infill and 15% - 20% infill using a Height range Modifier from 0 mm to 14.9 mm.
 
-## Attaching the head to the body
+## Bill of Materials
 
-### Required materials
+- One 3 mm dia. rod greater than 2 inches in length. (A wooden grill skewer will work.)
+- Permanent adhesive
+- Adhesive vinyl sheets in black and green for the default facial expression.
+- [Cardstock](https://en.wikipedia.org/wiki/Card_stock)
 
-- One wooden grill skewer > 2 inches
-- Permanent adhesive or model glue
+## Assembly
 
-### Notes & Instruction:
-
-- Measure and cut the grill skewer at 2 inches.
-- Apply glue to the 3 mm hole located on the bottom of the head and insert the 2-inch skewer into the hole until it stops.
+- Measure and cut the 3 mm rod at 2 inches.
+- Apply glue to the 3 mm hole located on the bottom of the head and insert the 2-inch rod into the hole until it stops.
 - Apply glue to the 3 mm hole and rib located on top of the body.
 - Insert the head assembly into the hole on top of the body until the rib meets the bottom side of the head assembly.
-- Leave head in desired position until glue dries.
+- Leave the head in the desired position until the glue dries.
 - Refer to 'assembly.pdf' for a detailed exploded view.
 
-## Assembling the face
+### Assembling the face
 
-Nine faces are included with the model and are in the SVG format. Each layer is a facial feature of a single color. This can be cut by hand or more accurately on a machine like the [Cricut](https://cricut.com/en_us).
+Nine faces are included with the model and are in the SVG format. Each layer is a facial feature of a single color. This can be cut by hand or more accurately on a machine like the [Cricut](https://cricut.com/en_us). Alternatively, you can print and cut ‘lise-face.pdf’ for each facial expression.
 
-### Notes & Instruction:
+### Assembling the face steps:
 
-- Screen background and decals cut on a Cricut Explore Air 1.
-	+ Material for background used: Vinyl
-		+ Color: Matte black
-	+ The background decal is applied to [cardstock](https://en.wikipedia.org/wiki/Card_stock) for added rigidity.
-	+ Facial features are cut on vinyl material according to their color and applied on top of the black vinyl.
-	+ The screen can be attached to the head by snapping it behind the two tabs on the left and right sides of the face.
-	+ The screen can be removed and replaced with different facial features by inserting a 3 mm rod through the channel on the back side of the head.
+- Cut the black vinyl to the desired shape to form the background.
+	- Refer to 'lise-face.pdf' for dimensions.
+- Apply the background decal to the cardstock for added rigidity.
+- Cut the cardstock around the black vinyl.
+- Cut the facial features according to their color and apply them on top of the black vinyl.
+- Attach the face to the head by snapping it behind the two tabs on the left and right sides of the face.
+- The screen can be removed and replaced with different facial features by inserting a 3 mm rod through the channel on the back of the head.
 - Refer to 'assembly.pdf' for a detailed exploded view.
 
 ## A note from the designer
