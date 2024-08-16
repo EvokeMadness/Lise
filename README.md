@@ -19,7 +19,7 @@ NEW: Mini Lise figure! Perfect size for a keychain!
 
 ## Bill of Materials
 
-- One 3 mm dia. rod greater than 2 inches in length. (A wooden grill skewer will work.)
+- One 3 mm diameter rod greater than 2 inches in length. (A wooden grill skewer will work.)
 - Permanent adhesive
 - Adhesive vinyl sheets in black and green for the default facial expression.
 - [Cardstock](https://en.wikipedia.org/wiki/Card_stock)
@@ -50,6 +50,6 @@ Nine faces are included with the model and are in the SVG format. Each layer is 
 
 ## A note from the designer
 
-Hey! Thanks for checking out my design and I hope you have a good time with it. If you've printed and assembled this design I'd love to see it. Post a make of this model to the Printables page assembled. If you have any issues with the model please let me know and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/Lise-fff) page. If you have any suggestions for this model please leave a comment. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/Lise-fff) page.
+Hey! Thanks for checking out my design and I hope you have a good time with it. If you've printed and assembled this design I'd love to see it. Post a make of this model to the Printables page assembled. If you have any issues with the model please let me know, and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/Lise-fff) page. If you have any suggestions for this model please leave a comment. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/Lise-fff) page.
 
 Happy printing!
