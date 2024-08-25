@@ -1,4 +1,4 @@
-# Spelunky 2 Lise 3D printable toy
+# Spelunky 2 LISE 3D printable toy
 ### 3D printable game character from Spelunky 2
 
 ![](pictures/lise.png)
@@ -7,7 +7,7 @@
 
 LISE from [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)! This figure is 3D printable and Funko POP! size. This model also features interchangeable faces!
 
-NEW: Mini Lise figure! Perfect size for a keychain!
+NEW: Mini LISE figure! Perfect size for a keychain!
 
 ## Print settings
 
@@ -15,7 +15,7 @@ NEW: Mini Lise figure! Perfect size for a keychain!
 - Print body with 15% - 30% infill
 - Print head with 10% - 15% infill
 
-### Mini Lise Print Settings
+### Mini LISE Print Settings
 
 - Print with supports. (Prints best with organic style supports.)
 - Print with 10% infill and 15% - 20% infill using a Height range Modifier from 0 mm to 14.9 mm.
@@ -53,6 +53,6 @@ Nine faces are included with the model and are in the SVG format. Each layer is 
 
 ## A note from the designer
 
-Hey! Thanks for checking out my design and I hope you have a good time with it. If you've printed and assembled this design I'd love to see it. Post a make of this model to the Printables page assembled. If you have any issues with the model please let me know, and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/Lise-fff) page. If you have any suggestions for this model please leave a comment. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/Lise-fff) page.
+Hey! Thanks for checking out my design and I hope you have a good time with it. If you've printed and assembled this design I'd love to see it. Post a make of this model to the Printables page assembled. If you have any issues with the model please let me know, and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/Lise) page. If you have any suggestions for this model please leave a comment. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/Lise) page.
 
 Happy printing!
